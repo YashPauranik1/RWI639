@@ -14,13 +14,12 @@ package Inheritance;
 	{
 		System.out.println("Dog is Eating");
 	}
+}	
 	public static void main(String[] args) 
 	{
 		Animal da=new Animal();
 		da.Run();
-		da.Eat();
-		
-		
+		da.Eat();	
 	}
 	
 }
